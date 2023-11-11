@@ -19,6 +19,6 @@ The application uses a MySQL database to store recipe and user information. The 
 
 users: Stores user information, including the username, email, and password. rsdb: Stores recipes information, name, description, image, ingredients and category
 
-Please visit [wwww.webstud.umt.edu.al/SmartRecipes2](https://webstud.umt.edu.al/~ahysaj/Smart%20Recipes2/)https://webstud.umt.edu.al/~ahysaj/Smart%20Recipes2/ if you wish to access the website. 
+Please visit https://webstud.umt.edu.al/~ahysaj/Smart%20Recipes2/ if you wish to access the website. 
 
 Thank you!
