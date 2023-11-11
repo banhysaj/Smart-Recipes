@@ -1,0 +1,44 @@
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 08:07:07
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 08:07:07
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 08:38:52
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 08:38:52
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 08:39:07
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 08:39:07
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 08:39:11
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 08:39:11
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 09:00:38
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 09:00:38
+Database connection failed: Unknown database 'rsdb' - 2023-06-05 09:02:02
+mysqli::__construct(): (HY000/1049): Unknown database 'rsdb' - 2023-06-05 09:02:02
+Database connection failed: Unknown database 'rsdb' - 2023-06-05 09:02:21
+mysqli::__construct(): (HY000/1049): Unknown database 'rsdb' - 2023-06-05 09:02:21
+Database connection failed: Unknown database 'rsdb' - 2023-06-05 09:02:29
+mysqli::__construct(): (HY000/1049): Unknown database 'rsdb' - 2023-06-05 09:02:29
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 09:15:33
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 09:15:33
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 09:17:09
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 09:17:09
+Database connection failed: No connection could be made because the target machine actively refused it - 2023-06-05 09:17:43
+mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it - 2023-06-05 09:17:43
+Database connection failed: Access denied for user 'ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:08:26
+mysqli::__construct(): (HY000/1045): Access denied for user 'ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:08:26
+Database connection failed: Access denied for user 'ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:09:30
+mysqli::__construct(): (HY000/1045): Access denied for user 'ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:09:30
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:47:40
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:47:40
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:55:34
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 10:55:34
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 15:56:11
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 15:56:11
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 15:56:28
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 15:56:28
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 15:57:01
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 15:57:01
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:01:06
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:01:06
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:01:13
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:01:13
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:06:45
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:06:45
+Database connection failed: Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:06:50
+mysqli::__construct(): (HY000/1045): Access denied for user 'web23_ahysaj'@'localhost' (using password: YES) - 2023-06-05 16:06:50
