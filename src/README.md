@@ -1,8 +1,3 @@
-DATABASE HOST: localhost
-DATABASE USER: ahysaj
-PASSWORD: Gjeswe23
-DATABASE NAME: web23_ahysaj
-
 
 Smart Recipes
 
